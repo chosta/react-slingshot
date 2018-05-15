@@ -1,7 +1,7 @@
 {
-  "name": "react-slingshot",
-  "version": "7.0.1",
-  "description": "Starter kit for creating apps with React and Redux",
+  "name": "react-slingshot-chosta",
+  "version": "1.0.0",
+  "description": "Starter kit for creating apps with React and Redux / Forked from react-slingshot 7.0.1",
   "engines": {
     "npm": ">=3"
   },
@@ -28,7 +28,7 @@
     "open:cover": "npm run test:cover && opn ./coverage/lcov-report/index.html",
     "analyze-bundle": "babel-node ./tools/analyzeBundle.js"
   },
-  "author": "Cory House",
+  "author": "Cory House | Danimir Barov",
   "license": "MIT",
   "dependencies": {
     "object-assign": "4.1.0",
@@ -114,7 +114,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/coryhouse/react-slingshot"
+    "url": "https://github.com/chosta/react-slingshot"
   },
   "jest": {
     "moduleNameMapper": {

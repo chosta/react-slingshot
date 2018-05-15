@@ -30,7 +30,7 @@ Why Slingshot?
 
 2. **Clone the project**
 
-    `git clone https://github.com/coryhouse/react-slingshot.git`.
+    `git clone https://github.com/chosta/react-slingshot.git`.
 
 3. **Run the setup script**
 
